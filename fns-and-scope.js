@@ -58,7 +58,7 @@ function getName() {
 
 
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
-//false,""(empty string),NaN, 0, undefined, and null. 
+//false,""(empty string),NaN, 0, undefined, and null.
 
   //Answer Here
 
@@ -78,7 +78,7 @@ function getName() {
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  var newMyName = myName();
+  var newMyName = myName;
 
 //Now alert the result of invoking newMyName
 
